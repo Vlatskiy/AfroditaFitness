@@ -68,41 +68,41 @@ transition: all 0.3s;
 }
 
 .container__logo_vk {
-    background: url("/icons/vk.png") center center no-repeat;
+    background: url("../icons/vk.png") center center no-repeat;
 }
 
 .container__logo_fb {
-   background: url("/icons/fb.png") center center no-repeat;
+   background: url("../icons/fb.png") center center no-repeat;
 }
 
 .container__logo_google {
-   background: url("/icons/google.png") center center no-repeat;
+   background: url("../icons/google.png") center center no-repeat;
 }
 
 .container__logo_twitter {
-   background: url("/icons/twitter.png") center center no-repeat;
+   background: url("../icons/twitter.png") center center no-repeat;
 }
 
 .container__logo_mail {
-   background: url("/icons/mail.png") center center no-repeat;
+   background: url("../icons/mail.png") center center no-repeat;
 }
 
 .container__link:hover .container__logo_vk {
-   background: url("/icons/vk2.png") center center no-repeat;
+   background: url("../icons/vk2.png") center center no-repeat;
 }
 
 .container__link:hover .container__logo_fb {
-   background: url("/icons/fb2.png") center center no-repeat;
+   background: url("../icons/fb2.png") center center no-repeat;
 }
 
 .container__link:hover .container__logo_google {
-   background: url("/icons/google2.png") center center no-repeat;
+   background: url("../icons/google2.png") center center no-repeat;
 }
 
 .container__link:hover .container__logo_twitter {
-   background: url("/icons/twitter2.png") center center no-repeat;
+   background: url("../icons/twitter2.png") center center no-repeat;
 }
 
 .container__link:hover .container__logo_mail {
-   background: url("/icons/mail2.png") center center no-repeat;
+   background: url("../icons/mail2.png") center center no-repeat;
 }
