@@ -1,0 +1,121 @@
+.mainsection__img {
+    margin-top:-45px;
+}
+
+.mainsection__img-title {
+    position: absolute;
+    width: 360px;
+    color: #ffffff;
+    font-family: "opensans_bold";
+    font-size: 49px;
+    font-weight: 700;
+    text-transform: uppercase;
+    top: 226px;
+    left: 668px;
+}
+
+.mainsection__content {
+    color: #221f1f;
+    width: 695px;
+    font-family: "opensans_light";
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.mainsection__content p {
+    margin-bottom: -3px;
+}
+
+.mainsection__boldtext {
+    font-family: "opensans_bold";
+}
+
+.mainsection__enumeration {
+    list-style: disc;
+    padding-left: 31px;
+    line-height: 34px;
+}
+
+.mainsection__enumeration li {
+    padding-left: 12px;
+    margin-bottom: 3px;
+}
+
+.mainsection__blackblock {
+    background-color: #131415;
+    color: #ffffff;
+    width: 700px;
+}
+
+.mainsection__blackblock-content p {
+    font-family: "opensans_light";
+    font-size: 18px;
+    font-weight: 300;
+    box-sizing: border-box;
+    line-height: 30px;
+    padding-left: 30px;
+    padding-top: 12px;
+    padding-bottom: 11px;
+    margin-top: 20px;
+}
+
+.mainsection__titlepartners {
+    width: 320px;
+    color: #221f1f;
+    font-family: "opensans_bold";
+    font-size: 33px;
+    font-weight: 700;
+    line-height: 38px;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-top: 51px;
+    margin-bottom: 45px;
+}
+
+.mainsection__partners {
+    width: 880px;
+    height: 178px;
+}
+
+.mainsection__partners-logobox {
+    display: inline-block;
+    margin-right: 108px;
+    margin-bottom: 30px;
+}
+
+.mainsection__partnersicon{
+    width: 160px;
+    height: 76px;
+    display: inline-block;
+    filter: grayscale(100%);
+    transition: all 0.3s;
+}
+
+.mainsection__partnersicon:hover {
+    filter: grayscale(0%)
+}
+
+.mainsection__partnersicon_flamingo {
+    background: url('../../img/flamingo.png') center center no-repeat;
+}
+
+.mainsection__partnersicon_malibu {
+    background: url('../../img/malibu.png') center center no-repeat;
+}
+
+.mainsection__partnersicon_lion {
+    background: url('../../img/lion.png') center center no-repeat;
+}
+
+.mainsection__partnersicon_arni{
+    background: url('../../img/arni.png') center center no-repeat;
+}
+
+.mainsection__partnersicon_grif {
+    background: url('../../img/grif.png') center center no-repeat;
+}
+
+.mainsection__partnersicon_atlet {
+    background: url('../../img/atlet.png') center center no-repeat;
+}

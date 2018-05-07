@@ -1,0 +1,44 @@
+@import url('layout/base.css');
+@import url('./sections/header.css');
+@import url('./sections/sidebar.css');
+@import url('./sections/maincontent.css');
+@import url('./sections/team.css');
+@import url('./sections/footer.css');
+@import url('./sections/mainsection.css');
+@import url('./sections/greeting.css');
+@import url('./sections/reviews.css');
+@import url('./sections/pages.css');
+@import url('./sections/form.css');
+
+@font-face {
+    font-family: 'gora_freeregular';
+    src: url('../fonts/gora-free-webfont.woff2') format('woff2'),
+         url('../fonts/gora-free-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'opensans_bold';
+    src: url('../fonts/opensans-bold-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-bold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'opensans_light';
+    src: url('../fonts/opensans-light-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'opensans_italic';
+    src: url('../fonts/opensans-lightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+

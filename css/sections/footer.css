@@ -1,0 +1,108 @@
+.footer__col {
+    float:left;
+    width: 33.3%;
+}
+
+.highbold {
+   font-weight: 700;
+   text-decoration: underline;
+   cursor: pointer;
+}
+
+.highbold a, a:visited {
+    color: #fff;
+ }
+
+ .highbold a:hover, a:active {
+    color: #a09393;
+ }
+
+.container__tag {
+   text-align: right;
+   margin-top: 17px;
+}
+
+.container__autors {
+   font-family: 'opensans_light';
+   width: 235px;
+   color: #ffffff;
+   font-size: 14px;
+   margin-top: 12px;
+   line-height: 1.23em;
+}
+
+.container__titlesocials {
+   font-family: 'opensans_bold';
+   color: #ffffff;
+   font-size: 14px;
+   margin-bottom: 8px;
+   margin-right: -1px;
+}
+
+.container__name {
+   color: #f89513;
+   font-family: "gora_freeregular";
+   font-size: 18px;
+   font-weight: 400;
+   text-transform: uppercase;
+   letter-spacing: 1.8px;
+   text-align: center;
+   margin-top: 27px;
+   margin-left: 1px;
+}
+
+.container__item {
+   display: inline-block;
+   margin-right: 6px;
+}
+
+.container__logo {
+width: 20px;
+height: 20px;
+transition: all 0.3s;
+}
+
+.container__socialslogo {
+   padding: 0;
+   margin-right: 25px;
+}
+
+.container__logo_vk {
+    background: url("/icons/vk.png") center center no-repeat;
+}
+
+.container__logo_fb {
+   background: url("/icons/fb.png") center center no-repeat;
+}
+
+.container__logo_google {
+   background: url("/icons/google.png") center center no-repeat;
+}
+
+.container__logo_twitter {
+   background: url("/icons/twitter.png") center center no-repeat;
+}
+
+.container__logo_mail {
+   background: url("/icons/mail.png") center center no-repeat;
+}
+
+.container__link:hover .container__logo_vk {
+   background: url("/icons/vk2.png") center center no-repeat;
+}
+
+.container__link:hover .container__logo_fb {
+   background: url("/icons/fb2.png") center center no-repeat;
+}
+
+.container__link:hover .container__logo_google {
+   background: url("/icons/google2.png") center center no-repeat;
+}
+
+.container__link:hover .container__logo_twitter {
+   background: url("/icons/twitter2.png") center center no-repeat;
+}
+
+.container__link:hover .container__logo_mail {
+   background: url("/icons/mail2.png") center center no-repeat;
+}

@@ -1,0 +1,50 @@
+body, html {
+    height:100%;
+}
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+    min-width: 1080px;
+}
+
+.wrapper:after {
+    content: "";
+    display: block;
+    height: 160px;
+    min-width: 1080px;
+}
+
+.footer {
+    height: 88px;
+    margin-top: -88px;
+    background-color: #131415;
+    min-width: 1080px;
+ }
+
+body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+}
+
+.clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+.container {
+    width: 1060px;
+    margin: 0 auto;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin: 0;
+    font-weight: normal;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}

@@ -1,0 +1,51 @@
+.mainsite {
+    position: relative;
+   min-height: 100%;
+   background: url(/img/afroditamain.png) center center no-repeat;
+   background-size: cover;
+}
+
+.background {
+   position: absolute;
+   width: 172px;
+   height: 300px;
+   top:50%;
+   left:50%;
+   transform: translate(-50%,-50%);
+   text-align: center;
+}
+
+.background__logo {
+   width: 160px;
+   height: 193px;
+   background: url(/img/logoafrodita.png) center center no-repeat;
+   background-size: auto;
+   display: inline-block;
+   margin-bottom: 40px;
+}
+
+.background__button {
+   width: 172px;
+   height: 45px;
+   border-radius: 3px;
+   background-color: #f89513;
+   transition: all 0.3s;
+}
+
+.background__button a{
+  text-decoration: none;
+}
+
+.background__button:hover {
+  background: #131415; 
+}
+
+.background__buttonlabel {
+   color: #ffffff;
+   font-family: "opensans_bold";
+   font-size: 14px;
+   text-transform: uppercase;
+   line-height: 45px;
+   cursor: pointer;
+   text-align: center;
+}

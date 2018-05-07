@@ -1,0 +1,34 @@
+.section__main {
+    margin-left: -41px;
+}
+
+.emploer {
+    display: inline-block;
+    width: 260px;
+    margin-left:41px;
+    text-align: left;
+    vertical-align: top;
+    margin-bottom:48px;
+    font-size:0;
+}
+
+.emploer__name {
+    font-family: 'opensans_bold';
+    font-size: 18px;
+}
+
+.emploer__description {
+    font-family: 'opensans_light';
+    color: #221f1f;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.emploer__foto {
+    display: inline-block;
+    margin-bottom: 25px;
+}
+
+.emploer__info {
+    margin-bottom: 6px;
+}
