@@ -38,15 +38,15 @@
 }
 
 .reviews__icon_review1 {
-    background: url('/img/review1.png') center center no-repeat; 
+    background: url('../img/review1.png') center center no-repeat; 
 }
 
 .reviews__icon_review2 {
-    background: url('/img/review2.png') center center no-repeat; 
+    background: url('../img/review2.png') center center no-repeat; 
 }
 
 .reviews__icon_review3 { 
-    background: url('/img/review3.png') center center no-repeat;
+    background: url('../img/review3.png') center center no-repeat;
     
 }
 
